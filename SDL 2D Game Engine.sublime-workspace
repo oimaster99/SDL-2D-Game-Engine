@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m_Is",
+				"m_IsGrounded"
+			],
+			[
+				"Coll",
+				"CollisionHandler"
+			],
+			[
+				"JUMP",
+				"JUMP_TIME"
+			],
+			[
+				"m_J",
+				"m_JumpTime"
+			],
+			[
+				"SDL_",
+				"SDL_SCANCODE_J"
+			],
+			[
+				"m",
+				"m_Buffer"
+			],
+			[
+				"m_",
+				"m_Buffer"
+			],
+			[
+				"s",
+				"s_Instance"
+			],
+			[
+				"m_T",
+				"m_Transform"
+			],
+			[
+				"v",
+				"VECTOR2D_H"
+			],
+			[
+				"t",
+				"TRANSFORM_H"
+			],
+			[
+				"r",
+				"RIGIDBODY_H"
+			],
+			[
+				"l",
+				"LAYER_H"
+			],
+			[
+				"I",
+				"IOBJECT_H"
+			],
+			[
+				"T",
+				"TILELAYER_H"
+			],
+			[
+				"tile",
+				"tileset"
+			],
+			[
+				"ti",
+				"tilemap"
+			],
+			[
+				"Ti",
+				"TileID"
+			],
+			[
+				"til",
+				"tilesize"
+			],
+			[
+				"SDL",
+				"SDL_Rect"
+			],
+			[
+				"tileC",
+				"tilecol"
+			],
+			[
+				"col",
+				"colcount"
+			],
+			[
+				"m_Ti",
+				"m_Tileset"
+			],
+			[
+				"Parse",
+				"ParseTileset"
+			],
+			[
+				"string",
+				"stringsteam"
+			],
+			[
+				"First",
+				"FirstChildElement"
+			],
+			[
+				"tiles",
+				"tilesize"
+			],
+			[
+				"rowcou",
+				"rowcount"
+			],
+			[
+				"Fir",
+				"FirstChildElement"
+			],
+			[
+				"xml",
+				"xmlLayer"
+			],
+			[
+				"Par",
+				"ParseTileset"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"ma",
+				"MapParser"
+			],
+			[
+				"c",
+				"colcount"
+			],
+			[
+				"m_Tile",
+				"m_TileSize"
+			],
+			[
+				"Tiles",
+				"TileSet"
+			],
+			[
+				"vect",
+				"vector\tstandard header"
+			],
+			[
+				"m_F",
+				"m_Force"
+			],
+			[
+				"App",
+				"ApplyForceX"
+			],
+			[
+				"m_Fram",
+				"m_FrameCount"
+			],
+			[
+				"Gen",
+				"GetRenderer"
+			],
+			[
+				"Get",
+				"GetInstance"
+			],
+			[
+				"SDL_Render",
+				"SDL_RenderCopyEx"
+			],
+			[
+				"Texture",
+				"TextureManager"
+			],
+			[
+				"gra",
+				"grassTexture"
+			],
+			[
+				"p_",
+				"p_tex"
+			],
+			[
+				"SDL_er",
+				"SDL_GetError"
+			],
+			[
+				"render",
+				"RenderWindow"
+			]
+		]
+	},
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Core/Engine.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Object/GameObject.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Warrior.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/Warrior.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Engine.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Core/Engine.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/SeqAnimation.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/SeqAnimation.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/SpriteAnimation.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/SpriteAnimation.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Characters/Warrior.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Characters/Warrior.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Animation/Animation.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/TextureManager.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/TextureManager.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Graphics/TextureManager.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Graphics/TextureManager.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Animation/SeqAnimation.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Collision/CollisionHandler.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Map/TileLayer.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/TileLayer.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Map/TileLayer.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Animation/Animation.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/Engine.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDK 2D Game Engine Backup V21/SDL 2D Game Engine/src/Warrior.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Vector2D.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Physics/Vector2D.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDK 2D Game Engine Backup V21/SDL 2D Game Engine/include/Vector2D.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/Input.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/RigidBody.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/Animation.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Physics/RigidBody.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Animation.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Inputs/Input.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Input.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Inputs/Input.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Characters/Character.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/Animation.o",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/MapParser.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/GameMap.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Collider.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Map/MapParser.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Map/Layer.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Map/MapParser.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/MapParser.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SoftEngine/src/Map/GameMap.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/CollisionHandler.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/CollisionHandler.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/Camera.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Camera.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Point.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/GameObject.h",
+		"/C/Users/jagwe/OneDrive/Documents/Aseprite/Textures/epic_background.png",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Layer.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/TileLayer.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/MapParser.o.bak",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Transform.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Timer.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/IObject.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Character.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/main.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/SDL 2D Game Engine.sublime-project",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/tinyxml.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/tinystr.h",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/Timer.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/Vector2D.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Platformer/SDL 2D Platformer.sublime-project",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/Main.o",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/src/core/Engine.cpp",
+		"/C/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/include/Engine.hpp",
+		"/C/Users/jagwe/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 126.4,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"endif",
+			"getmaps",
+			"tilesize",
+			"getline",
+			"stringsteam",
+			"LastId"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 169.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

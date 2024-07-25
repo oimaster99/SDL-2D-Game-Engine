@@ -1,0 +1,84 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "idk.tmx": {
+            "scale": 4.5125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 99.39058171745152,
+                "y": 96.06648199445983
+            }
+        },
+        "idk.tmx#tile_jungle_bottom_grey": {
+            "scaleInDock": 1
+        },
+        "idk.tmx#tile_jungle_ground_grey": {
+            "scaleInDock": 1
+        },
+        "jungle_collection.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 811,
+                "y": 398.33333333333337
+            }
+        },
+        "map.tmx#tile_jungle_bottom_grey": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "map.tmx#tile_jungle_ground_grey": {
+            "scaleInDock": 1
+        },
+        "tile_jungle_bottom_grey.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tile_jungle_bridge.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tile_jungle_ground_grey.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tile_jungle_tree_dark.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tile_jungle_wall_grey.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/jagwe/OneDrive/Desktop/Codemo/C++/SDL 2D Game Engine/assets/maps",
+    "map.height": 6,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 6,
+    "openFiles": [
+        "map.tmx",
+        "tile_jungle_ground_grey.tsx"
+    ],
+    "project": "test.tiled-project",
+    "recentFiles": [
+        "tile_jungle_ground_grey.tsx",
+        "map.tmx",
+        "idk.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 0
+}

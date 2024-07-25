@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textures>
+    <texture id="player" source="assets/slime.png"/>
+    <texture id="player_walk" source="assets/slimewalk.png"/>
+
+    <texture id="bg" source="assets/epic_background.png"/>
+
+    <texture id="boss_idle1" source="assets/boss/idle/slimebossidle1.png"/>
+    <texture id="boss_idle2" source="assets/boss/idle/slimebossidle2.png"/>
+    <texture id="boss_idle3" source="assets/boss/idle/slimebossidle3.png"/>
+    <texture id="boss_idle4" source="assets/boss/idle/slimebossidle4.png"/>
+    <texture id="boss_idle5" source="assets/boss/idle/slimebossidle5.png"/>
+    <texture id="boss_idle6" source="assets/boss/idle/slimebossidle6.png"/>
+
+    <texture id="boss_attack1" source="assets/boss/attack/slimebossattack.png"/>
+
+    <texture id="boss_appear1" source="assets/boss/appear/slimebossappear1.png"/>
+    <texture id="boss_appear2" source="assets/boss/appear/slimebossappear2.png"/>
+    <texture id="boss_appear3" source="assets/boss/appear/slimebossappear3.png"/>
+    <texture id="boss_appear4" source="assets/boss/appear/slimebossappear4.png"/>
+
+    <texture id="boss_die1" source="assets/boss/die/slimebossdie1.png"/>
+    <texture id="boss_die2" source="assets/boss/die/slimebossdie2.png"/>
+
+
+</textures>
